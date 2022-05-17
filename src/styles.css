@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+#app {
+  width: 100%;
+}
+
+.center {
+  margin: 0 auto;
+  width: 700px;
+}
+
+.center .slideshow {
+  width: 50%;
+  text-align: center;
+}
